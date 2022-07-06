@@ -7,15 +7,6 @@ body {
     font-family: 'Trispace', sans-serif;
 }
 
-/* h1 {
-
-    font-size: 65px;
-    color: white;
-    padding-top: 80px;
-    padding-bottom: 30px;
-    
-} */
-
 .main-header h1 {
     font-size: 65px;
     color: white;
@@ -103,14 +94,6 @@ body {
     color: rgb(90, 90, 90);
 }
 
-/* .special {
-    width: 20%;
-    height: 200px;
-    background: #FAFAFA;
-    margin: 20px;
-    box-sizing: border-box;
-    font-size: 50px;
-} */
 .special {
     width: 15%;
     height: 120px;
@@ -274,24 +257,12 @@ body {
     color: white;
     font-weight: 700;
     border-radius: 5px;
-
-
-
 }
-
-
-
-/* .dream-big {
-    background-image: url(image/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: right;
-} */
 
 .update-section {
     margin: auto;
     width: 70%;
     text-align: center;
-
 }
 
 .update-section h1 {
